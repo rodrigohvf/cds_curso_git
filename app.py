@@ -8,5 +8,3 @@ df=load_data()
 st.dataframe(df)
 if__name__=='__main__':
     main()
-
-a
